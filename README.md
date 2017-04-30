@@ -10,6 +10,10 @@ Write Web Pages Today, 2nd ed.* (ABC-CLIO/Greenwood Press, 2017).
 * **Starter HTML, CSS, and JavaScript files** with comments and references to relevant chapters
 in the book.
 
+## Version History
+
+* **v2.0.0** - Initial book-publication day release
+
 ## Licensing
 
 Dual-licensed under MIT and GPL. See the LICENSE.txt file.
