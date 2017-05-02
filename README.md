@@ -6,7 +6,7 @@ Write Web Pages Today, 2nd ed.* (ABC-CLIO/Greenwood Press, 2017).
 
 ## Contents
 
-* **Lint configuration files** for [htmllint](https://github.com/htmllint/htmllint), [csslint](https://github.com/CSSLint/csslint), and [ESLint](https://github.com/eslint/eslint)
+* **Lint configuration files** for [htmllint](https://github.com/htmllint/htmllint), [stylelint](https://github.com/stylelint/stylelint), and [ESLint](https://github.com/eslint/eslint)
 * **Starter HTML, CSS, and JavaScript files** with comments and references to relevant chapters
 in the book.
 
